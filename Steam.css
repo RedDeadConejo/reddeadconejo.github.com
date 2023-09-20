@@ -300,7 +300,7 @@ body,
 }
 
 .bg-1QIAus {
-  background: url(data:image/https://cdn.akamai.steamstatic.com/steamcommunity/public/images/items/1735420/9b440056402b511198618f91d4a3a3e73d52663b.webm) center top no-repeat var(--app-bg);
+  background: url(data:image/https://www.gamereactor.es/media/82/_3408223b.jpg) center top no-repeat var(--app-bg);
   filter: hue-rotate(calc(var(--hue-shift) * 1deg)) saturate(var(--saturation-factor, 1));
 }
 
